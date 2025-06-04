@@ -1,9 +1,9 @@
 # 💫 About Me
-<br>🚀 I am a passionate developer dedicated to contributing to and collaborating on innovative projects. My objective is to create impactful solutions by leveraging technology and coding expertise.<br>
+<br>I am a passionate developer dedicated to contributing to and collaborating on innovative projects. My objective is to create impactful solutions by leveraging technology and coding expertise.<br>
 <br>Currently, I am deeply immersed in software development, driven by a strong curiosity about the underlying mechanics of technology. I particularly enjoy working with low-level languages such as C, exploring systems programming, and delving into computer hardware to gain a comprehensive understanding of how things work at their core.<br>
-<br>🔐 I'm also deeply interested in cybersecurity, including ethical hacking and cryptosystems. I enjoy breaking things apart to learn how to make them stronger and more secure.<br>
-<br>🎓 As a Computer Science student majoring in Applied Mathematics, I approach technical challenges with both practical skills and theoretical insight, enabling me to tackle complex problems efficiently.<br>
-<br>🌍 Based remotely, I am always open to collaborating on exciting and impactful projects. I am actively seeking new opportunities to learn, contribute, and grow within this dynamic and fast-evolving field.<br>
+<br>I'm also deeply interested in cybersecurity, including ethical hacking and cryptosystems. I enjoy breaking things apart to learn how to make them stronger and more secure.<br>
+<br>As a Computer Science student majoring in Applied Mathematics, I approach technical challenges with both practical skills and theoretical insight, enabling me to tackle complex problems efficiently.<br>
+<br>Based remotely, I am always open to collaborating on exciting and impactful projects. I am actively seeking new opportunities to learn, contribute, and grow within this dynamic and fast-evolving field.<br>
 <br>Let’s connect and build something meaningful together!<br>
 
 
